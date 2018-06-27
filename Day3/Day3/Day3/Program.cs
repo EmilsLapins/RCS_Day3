@@ -19,10 +19,10 @@ namespace Day3
 
             Rinkis rinkis1 = new Rinkis();
             double rezultats = rinkis1.Apkartmers1(RadiusY);
-            Console.WriteLine(rezultats);
+            Console.WriteLine(rezultats + " ir rinka apkartmers.");
 
             double rezultats2 = rinkis1.Laukums1(RadiusY);
-            Console.WriteLine(rezultats2);
+            Console.WriteLine(rezultats2 + " ir rinka laukums.");
 
 
 
